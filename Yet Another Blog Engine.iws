@@ -20,33 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5d98562-ef15-4642-8ff3-34e5015bfceb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Bootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/tags/display.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/initial-data.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/Application/show.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Yet Another Blog Engine.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Yet Another Blog Engine.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/Application/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Application/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Post.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/application.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/DocViewerPlugin" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/DocViewerPlugin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/tags/display.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/tags/display.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/conf/routes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_main.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_display.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_display.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Application" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Application" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.PlayDocumentation" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.PlayDocumentation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.ProjectDocumentation" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.ProjectDocumentation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$1" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$2" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$3" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$4" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.CheatSheetHelper$4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.LangMenuHelper" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.LangMenuHelper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.LangMenuHelper$1" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.LangMenuHelper$1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.LangMenuHelper$LangMenu" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/helpers.LangMenuHelper$LangMenu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Comment" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Comment" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Post" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Post" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.User" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.User" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/classes/controllers/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/controllers/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/models/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/models/Post.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +57,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -132,7 +119,7 @@
       <workItem from="1591098781111" duration="730000" />
       <workItem from="1591099934017" duration="126000" />
       <workItem from="1591100175886" duration="5551000" />
-      <workItem from="1591164299322" duration="7111000" />
+      <workItem from="1591164299322" duration="12202000" />
     </task>
     <servers />
   </component>
