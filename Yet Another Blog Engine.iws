@@ -20,29 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5d98562-ef15-4642-8ff3-34e5015bfceb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/models/Tag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/Application/listTagged.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/Posts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/Tags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yet Another Blog Engine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Yet Another Blog Engine.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Yet Another Blog Engine.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Yet Another Blog Engine.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/Application/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Application/show.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/tags/display.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/tags/display.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/initial-data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/initial-data.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/dependencies.yml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/dependencies.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/messages" beforeDir="false" afterPath="$PROJECT_DIR$/conf/messages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/conf/routes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-result/BasicTest.class.passed.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-result/TEST-BasicTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-result/TEST-BasicTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-result/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/test-result/application.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-result/result.passed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/BasicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/BasicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/BasicTest" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/BasicTest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_show.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_show.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_errors_404.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_errors_404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_display.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_tags_display.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_conf_initial-data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_conf_initial-data.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_play__framework_templates_tags_404.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_play__framework_templates_tags_404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Post" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.Post" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/classes/BasicTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/BasicTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/classes/models/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/models/Post.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.User" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.User" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/models/User.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +41,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -129,7 +118,7 @@
       <workItem from="1591098781111" duration="730000" />
       <workItem from="1591099934017" duration="126000" />
       <workItem from="1591100175886" duration="5551000" />
-      <workItem from="1591164299322" duration="21600000" />
+      <workItem from="1591164299322" duration="23813000" />
     </task>
     <servers />
   </component>

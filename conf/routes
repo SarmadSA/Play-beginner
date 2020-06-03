@@ -11,6 +11,9 @@ POST    /posts/{postId}/comments                Application.postCo
 
 GET     /posts/{tag}                            Application.listTagged
 
+# Import CRUD routes
+*      /admin              module:crud
+
 # Ignore favicon requests
 GET     /favicon.ico                            404
 
