@@ -20,18 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5d98562-ef15-4642-8ff3-34e5015bfceb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/Posts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/Tags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/Security.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/Admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/admin.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Yet Another Blog Engine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Yet Another Blog Engine.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Yet Another Blog Engine.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Yet Another Blog Engine.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Comments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Posts.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Posts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Tags.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Tags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Users.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conf/dependencies.yml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/dependencies.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/messages" beforeDir="false" afterPath="$PROJECT_DIR$/conf/messages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/conf/routes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_main.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Comments" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Comments" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Posts" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Posts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Tags" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Tags" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Users" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/controllers.Users" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/models.User" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/models.User" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/classes/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/models/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/controllers/Comments.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/controllers/Comments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/controllers/Posts.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/controllers/Posts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/controllers/Tags.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/controllers/Tags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/classes/controllers/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/classes/controllers/Users.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +53,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -118,7 +130,8 @@
       <workItem from="1591098781111" duration="730000" />
       <workItem from="1591099934017" duration="126000" />
       <workItem from="1591100175886" duration="5551000" />
-      <workItem from="1591164299322" duration="23813000" />
+      <workItem from="1591164299322" duration="24769000" />
+      <workItem from="1591250119422" duration="5152000" />
     </task>
     <servers />
   </component>
@@ -126,6 +139,7 @@
     <option name="version" value="2" />
   </component>
   <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="routes" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +152,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1342" y="580" key="#Play_Configuration" timestamp="1591091793997">

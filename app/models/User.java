@@ -33,4 +33,5 @@ public class User extends Model {
         return email;
     }
 
+
 }
